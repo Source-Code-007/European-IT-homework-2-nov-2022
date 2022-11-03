@@ -62,5 +62,3 @@ console.log(fromTest2)
 // Task related to Object: (20 Marks)
 // Write programs for entries(), hasOwn(), keys(), values() methods.
 // Write a program for merging two object (using spread operator).
-var count = [1, 2, 3, 4, 5];
-console.log(count);
