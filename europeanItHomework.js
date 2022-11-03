@@ -14,6 +14,7 @@ let arr2 = [2, 4, 6, 8, 10]
 let arrConcat = arr.concat(arr2) 
 
 
+
 // fill method
 // fill method overwrites the original array
 /* let arrFill = arr.fill('hello' , 1, 4)
@@ -29,6 +30,11 @@ console.log(arrFill) */
  })
 
 
+
+
+
+
+ 
 //findIndex method
 //Finding the index number whitch is greater than 300
 let testFindIndex = [100, 200, 300, 400, 500]
